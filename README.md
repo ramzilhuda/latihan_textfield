@@ -1,6 +1,8 @@
 # latihan_textfield
 
-A new Flutter project.
+
+Latihan Menggunakan Textfield widget dan Text
+![Screenshot_2020-08-05-16-59-02-40_1b18f36a477619907f0e9390d1e883e7 1](https://user-images.githubusercontent.com/60292040/89399881-4ba06080-d73d-11ea-8aa9-c4df3cea763d.png)
 
 ## Getting Started
 
